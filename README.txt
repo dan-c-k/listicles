@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/nickdrut/pen/wQQNQd.
+An NU EECS 338 Project
 
  
